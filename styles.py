@@ -1,0 +1,16 @@
+# Text colors
+COLOR_RED = '\033[31m'
+COLOR_GREEN = '\033[32m'
+COLOR_YELLOW = '\033[33m'
+COLOR_BLUE = '\033[34m'
+COLOR_MAGENTA = '\033[35m'
+COLOR_CYAN = '\033[36m'
+COLOR_WHITE = '\033[37m'
+
+# Text formatting
+FORMAT_BOLD = '\033[1m'
+FORMAT_UNDERLINE = '\033[4m'
+FORMAT_REVERSE = '\033[7m'
+
+# Reset all formatting
+FORMAT_RESET = '\033[0m'
